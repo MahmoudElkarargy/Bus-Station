@@ -1,0 +1,4 @@
+Alexandria Cairo 0 1 0 200 350 20 15 0 
+Cairo Alexandria 1 1 1 300 350 20 20 1 
+Paris German 0 0 2 30000 50000 200 151 2 
+Aswan Luxor 1 0 0 100 200 28 0 1 
