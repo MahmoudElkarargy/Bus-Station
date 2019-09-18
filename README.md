@@ -59,21 +59,33 @@ see fit ) :
   You are encouraged to add more classes and extend more types in your project.
    You should at least provide one abstract class and one interface, you are free to add
     more depending on your design.
+    
    Your code should read and write to files to save and load data
+  
    You should load some data from some files at the program startup, so you will have
     some trips and customers to play with.
+  
    You can save the updates automatically to the files, or provide a save button to save
-    changes to the files.  You should provide a good GUI which will ease the use of the system, you are free to
+    changes to the files. 
+    
+   You should provide a good GUI which will ease the use of the system, you are free to
     use any GUI framework, and you are free to make any design you like.
+  
    Your GUI should support two modes of operations, one for the customers to buy a ticket
     and the other for the manager or a driver to update a trip or a ticket price, ...
+  
    You should draw a class diagram of your project.
+  
    You should handle errors and show error massages to the user, use try and catch to help
     you make your program stable.
+  
    You should apply all the object-oriented concepts like encapsulation, ...etc. And don’t
-    use static unless you really need it.  Be creative! The required features are only the beginning of what you can do, 
+    use static unless you really need it. 
+    
+   Be creative! The required features are only the beginning of what you can do, 
     add more features or spice up the required ones, 
     bonus marks will be given to those with eye- catching extra features and user- friendly interfaces.
+  
    This project will consume some time in developing, but it has minor difficult parts, so
     enjoy what you are doing and try to learn as much as you can. It is meant to be easy and
     to help you learn.
